@@ -25,11 +25,11 @@ export default async function Header() {
       <nav className="container mx-auto px-4 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 cursor-pointer">
           <Image
-            src="/cliniko-unscreen.gif"
+            src="/cliniko.png"
             alt="Cliniko Logo"
             width={400}
             height={200}
-            className="h-20 md:h-24 w-auto object-contain"
+            className="h-26 md:h-30 w-auto object-contain"
           />
         </Link>
 
