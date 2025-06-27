@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 16,
+    "editor.wordWrap": "bounded",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "block-outline"
+}
